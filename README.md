@@ -21,40 +21,44 @@ A potential N-glycosylation motif follows the pattern **N-X-S/T**, where X is no
 
 ## Results and Evidence
 
+<img width="1185" height="638" alt="image" src="https://github.com/user-attachments/assets/e3cc53b8-b08e-4d15-8fcf-24803abae2ff" />
+
+### Figure 1. Selection of the PLA2G15 protein accession from NCBI. The NCBI Protein database record was used to identify the human lysosomal phospholipase A and acyltransferase isoform 1 precursor, with RefSeq accession NP_036452.1.
+
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/b119fb5b-8e18-4375-ad28-d056b201f5ad" />
 
-### Figure 1. RStudio project setup showing the selected lysosomal enzyme gene, PLA2G15, and its NCBI RefSeq protein accession.
+### Figure 2. RStudio project setup showing the selected lysosomal enzyme gene, PLA2G15, and its NCBI RefSeq protein accession.
 
 
 <img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/4dca1e28-3832-44ad-b278-63759d2fbc37" />
 
-### Figure 2. Retrieval of the PLA2G15 protein sequence from NCBI using R and the rentrez package.
+### Figure 3. Retrieval of the PLA2G15 protein sequence from NCBI using R and the rentrez package.
 
 
 <img width="602" height="63" alt="image" src="https://github.com/user-attachments/assets/94dabe12-fe68-4bcc-b723-25e5d027ff18" />
 
-### Figure 3. Calculation of PLA2G15 protein length and summary statistics using the downloaded sequence.
+### Figure 4. Calculation of PLA2G15 protein length and summary statistics using the downloaded sequence.
 
 
 <img width="375" height="152" alt="image" src="https://github.com/user-attachments/assets/bcb43aa6-9d48-47bd-a8a6-1824c08adf7c" />
 
-### Figure 4. Amino acid composition of the PLA2G15 protein sequence, showing the frequency of each standard amino acid.
+### Figure 5. Amino acid composition of the PLA2G15 protein sequence, showing the frequency of each standard amino acid.
 
 
 <img width="505" height="232" alt="image" src="https://github.com/user-attachments/assets/f3d20fc0-09c3-4736-96f0-1f0b8fe49143" />
 
-### Figure 5. RStudio project directory showing the R analysis script and the data, results, and figures folders created for the PLA2G15 lysosomal enzyme sequence analysis.
+### Figure 6. RStudio project directory showing the R analysis script and the data, results, and figures folders created for the PLA2G15 lysosomal enzyme sequence analysis.
 
 
 <img width="1366" height="715" alt="image" src="https://github.com/user-attachments/assets/bdf4f28f-d258-444e-80ee-199fb5af8012" />
 
-### Figure 5. Amino acid composition of the PLA2G15 protein sequence. The bar graph shows the count of each amino acid in the 412-amino-acid protein. Leucine (L) was the most abundant amino acid, appearing 55 times, followed by glycine (G), with 34 occurrences.
+### Figure 7. Amino acid composition of the PLA2G15 protein sequence. The bar graph shows the count of each amino acid in the 412-amino-acid protein. Leucine (L) was the most abundant amino acid, appearing 55 times, followed by glycine (G), with 34 occurrences.
 
 
 
 <img width="1364" height="726" alt="image" src="https://github.com/user-attachments/assets/dc81949b-77cc-40c1-a72a-5abc2ba5e906" />
 
-### Figure 6. Positions of potential N-glycosylation motifs in the PLA2G15 protein sequence. The graph shows the locations of four predicted N-X-S/T motifs along the 412-amino-acid protein sequence, with X representing any amino acid except proline.
+### Figure 8. Positions of potential N-glycosylation motifs in the PLA2G15 protein sequence. The graph shows the locations of four predicted N-X-S/T motifs along the 412-amino-acid protein sequence, with X representing any amino acid except proline.
 
 
 ## Answers to the Five Lab Questions
