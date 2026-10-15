@@ -21,14 +21,14 @@ A potential N-glycosylation motif follows the pattern **N-X-S/T**, where X is no
 
 ## Results and Evidence
 
-<img width="1188" height="641" alt="image" src="https://github.com/user-attachments/assets/385ad929-fac4-440f-bcb5-eac4a8a3e219" />
-
-### Figure 1. Retrieval of the PLA2G15 protein sequence from NCBI using R and the rentrez package.
-
-
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/b119fb5b-8e18-4375-ad28-d056b201f5ad" />
 
-### Figure 2. RStudio project setup showing the selected lysosomal enzyme gene, PLA2G15, and its NCBI RefSeq protein accession.
+### Figure 1. RStudio project setup showing the selected lysosomal enzyme gene, PLA2G15, and its NCBI RefSeq protein accession.
+
+
+<img width="1365" height="725" alt="image" src="https://github.com/user-attachments/assets/4dca1e28-3832-44ad-b278-63759d2fbc37" />
+
+### Figure 2. Retrieval of the PLA2G15 protein sequence from NCBI using R and the rentrez package.
 
 
 <img width="602" height="63" alt="image" src="https://github.com/user-attachments/assets/94dabe12-fe68-4bcc-b723-25e5d027ff18" />
